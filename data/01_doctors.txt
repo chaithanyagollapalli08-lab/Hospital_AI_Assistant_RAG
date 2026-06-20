@@ -1,0 +1,172 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: DOCTORS & SPECIALISTS DIRECTORY
+========================================
+
+--- CARDIOLOGY ---
+
+Doctor: Dr. Ramesh Nair
+Specialization: Cardiology (Interventional Cardiologist)
+Qualification: MBBS, MD, DM (Cardiology) - AIIMS Delhi
+Experience: 18 years
+Availability: Monday, Wednesday, Friday | 9:00 AM – 1:00 PM
+Consultation Fee: ₹800
+Languages: English, Hindi, Telugu
+Special Expertise: Angioplasty, Echocardiography, Heart Failure Management
+Room: OPD Block B, Room 204
+
+Doctor: Dr. Sunita Mehta
+Specialization: Cardiology (Non-Invasive)
+Qualification: MBBS, MD (Medicine), DM (Cardiology)
+Experience: 12 years
+Availability: Tuesday, Thursday, Saturday | 10:00 AM – 2:00 PM
+Consultation Fee: ₹700
+Languages: English, Hindi
+Special Expertise: ECG Interpretation, Stress Testing, Hypertension Management
+Room: OPD Block B, Room 206
+
+--- NEUROLOGY ---
+
+Doctor: Dr. Arvind Krishnamurthy
+Specialization: Neurology
+Qualification: MBBS, MD, DM (Neurology) - CMC Vellore
+Experience: 20 years
+Availability: Monday, Tuesday, Thursday | 11:00 AM – 3:00 PM
+Consultation Fee: ₹900
+Languages: English, Telugu, Tamil
+Special Expertise: Epilepsy, Stroke Management, Parkinson's Disease
+Room: OPD Block C, Room 310
+
+Doctor: Dr. Priya Sharma
+Specialization: Neurology (Pediatric Neurology)
+Qualification: MBBS, MD (Pediatrics), DM (Neurology)
+Experience: 9 years
+Availability: Wednesday, Friday | 9:00 AM – 12:00 PM
+Consultation Fee: ₹750
+Languages: English, Hindi
+Room: OPD Block C, Room 312
+
+--- ORTHOPEDICS ---
+
+Doctor: Dr. Suresh Babu
+Specialization: Orthopedics & Joint Replacement
+Qualification: MBBS, MS (Orthopedics)
+Experience: 15 years
+Availability: Monday to Saturday | 8:00 AM – 12:00 PM
+Consultation Fee: ₹600
+Languages: English, Telugu
+Special Expertise: Knee Replacement, Hip Replacement, Sports Injuries
+Room: OPD Block A, Room 108
+
+Doctor: Dr. Kavitha Reddy
+Specialization: Orthopedics (Spine Surgery)
+Qualification: MBBS, MS (Orthopedics), Fellowship in Spine Surgery
+Experience: 11 years
+Availability: Tuesday, Thursday, Saturday | 2:00 PM – 5:00 PM
+Consultation Fee: ₹700
+Languages: English, Telugu, Hindi
+Room: OPD Block A, Room 110
+
+--- GASTROENTEROLOGY ---
+
+Doctor: Dr. Mohan Das
+Specialization: Gastroenterology & Hepatology
+Qualification: MBBS, MD, DM (Gastroenterology)
+Experience: 14 years
+Availability: Monday, Wednesday, Friday | 10:00 AM – 1:00 PM
+Consultation Fee: ₹800
+Languages: English, Hindi, Malayalam
+Special Expertise: Endoscopy, Liver Disease, IBD
+Room: OPD Block D, Room 402
+
+--- GYNECOLOGY ---
+
+Doctor: Dr. Anitha Varma
+Specialization: Obstetrics & Gynecology
+Qualification: MBBS, MS (OBG)
+Experience: 16 years
+Availability: Monday to Saturday | 9:00 AM – 11:00 AM | 4:00 PM – 6:00 PM
+Consultation Fee: ₹600
+Languages: English, Telugu, Hindi
+Special Expertise: High-Risk Pregnancy, Laparoscopic Surgery, Infertility
+Room: OPD Block E, Room 502
+
+--- PEDIATRICS ---
+
+Doctor: Dr. Ravi Teja
+Specialization: Pediatrics & Neonatology
+Qualification: MBBS, MD (Pediatrics), Fellowship in Neonatology
+Experience: 10 years
+Availability: Daily | 9:00 AM – 1:00 PM | 5:00 PM – 7:00 PM
+Consultation Fee: ₹500
+Languages: English, Telugu
+Room: OPD Block E, Room 510
+
+--- DERMATOLOGY ---
+
+Doctor: Dr. Nalini Shetty
+Specialization: Dermatology & Cosmetology
+Qualification: MBBS, MD (Dermatology)
+Experience: 8 years
+Availability: Monday, Wednesday, Friday, Saturday | 11:00 AM – 2:00 PM
+Consultation Fee: ₹600
+Languages: English, Kannada, Hindi
+Room: OPD Block A, Room 115
+
+--- ENDOCRINOLOGY ---
+
+Doctor: Dr. Vijay Anand
+Specialization: Endocrinology & Diabetes
+Qualification: MBBS, MD, DM (Endocrinology)
+Experience: 13 years
+Availability: Tuesday, Thursday | 9:00 AM – 1:00 PM
+Consultation Fee: ₹800
+Languages: English, Tamil, Telugu
+Special Expertise: Diabetes Management, Thyroid Disorders, Obesity
+Room: OPD Block D, Room 408
+
+--- PSYCHIATRY ---
+
+Doctor: Dr. Meenakshi Iyer
+Specialization: Psychiatry & Mental Health
+Qualification: MBBS, MD (Psychiatry)
+Experience: 7 years
+Availability: Monday, Wednesday, Friday | 2:00 PM – 5:00 PM
+Consultation Fee: ₹700
+Languages: English, Tamil, Hindi
+Special Expertise: Depression, Anxiety, Addiction Counseling
+Room: OPD Block F, Room 601
+Note: Appointments strictly by prior booking only.
+
+--- OPHTHALMOLOGY ---
+
+Doctor: Dr. Srinivas Rao
+Specialization: Ophthalmology & Retina
+Qualification: MBBS, MS (Ophthalmology), Fellowship in Retina
+Experience: 17 years
+Availability: Monday to Saturday | 10:00 AM – 1:00 PM
+Consultation Fee: ₹500
+Languages: English, Telugu
+Room: OPD Block B, Room 215
+
+--- ENT ---
+
+Doctor: Dr. Lalitha Prasad
+Specialization: ENT (Ear, Nose & Throat)
+Qualification: MBBS, MS (ENT)
+Experience: 12 years
+Availability: Daily except Sunday | 9:00 AM – 12:00 PM
+Consultation Fee: ₹500
+Languages: English, Telugu, Hindi
+Room: OPD Block A, Room 120
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- Which cardiologist is available today?
+- Who is the best neurologist?
+- Is Dr. Ramesh Nair available on Monday?
+- What is the consultation fee for orthopedics?
+- Which doctor speaks Telugu?
+- Who treats diabetes?
+- List all doctors available on Saturday
+========================================

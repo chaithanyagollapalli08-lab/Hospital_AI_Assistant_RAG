@@ -1,0 +1,198 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: POLICIES & RULES
+========================================
+
+--- VISITING HOURS POLICY ---
+
+General Wards:
+  Morning: 8:00 AM – 10:00 AM
+  Evening: 5:00 PM – 7:00 PM
+  Maximum visitors per patient: 2 at a time
+  Children under 12: Not permitted in wards (infection control)
+
+Private / Deluxe Rooms:
+  Morning: 8:00 AM – 11:00 AM
+  Evening: 4:00 PM – 8:00 PM
+  Maximum visitors: 3 at a time
+
+ICU / NICU / HDU (High Dependency Unit):
+  Visiting Hours: 10:00 AM – 11:00 AM | 5:00 PM – 6:00 PM
+  Persons allowed: 1 immediate family member only per session
+  Children under 18: NOT permitted in ICU
+  Visitor gowns/masks required (provided at ICU entrance)
+
+Post-Operative Ward:
+  No visitors for first 4 hours post-surgery
+  After that: 1 visitor at a time, during general visiting hours
+
+Emergency Department:
+  Only 1 family member permitted to be inside the Emergency Department at a time
+  Others must wait in the designated family waiting area
+
+COVID-19 / Isolation Wards:
+  Visiting strictly restricted
+  Video call facility arranged by nursing staff
+
+--- PATIENT RIGHTS ---
+
+Every patient has the right to:
+  ✅ Respectful and dignified care without discrimination
+  ✅ Privacy and confidentiality of medical information
+  ✅ Know the name and designation of their treating doctor and nurse
+  ✅ Informed consent before any procedure or surgery
+  ✅ Refuse treatment after being informed of consequences
+  ✅ Access their medical records on written request
+  ✅ Receive a complete and itemized bill
+  ✅ Seek a second opinion
+  ✅ Lodge a complaint without fear of retribution
+  ✅ Be informed about expected costs before treatment
+
+--- PATIENT RESPONSIBILITIES ---
+
+Patients are expected to:
+  ✅ Provide accurate and complete medical history
+  ✅ Follow prescribed treatment and instructions
+  ✅ Treat hospital staff respectfully
+  ✅ Keep appointments or cancel in advance
+  ✅ Settle bills promptly
+  ✅ Respect other patients' privacy and quiet
+  ✅ Not bring prohibited items (alcohol, outside food in ICU, weapons)
+  ✅ Follow visitor rules and inform visitors of hospital policies
+
+--- ADMISSION POLICY ---
+
+Planned Admissions:
+  - Doctor's admission note is mandatory
+  - Admission Desk: Ground Floor, near Main Reception
+  - Identity Proof: Aadhar card, Passport, or Voter ID (Mandatory)
+  - Deposit: Refundable security deposit required at the time of admission
+      General Ward: ₹5,000
+      Semi-Private: ₹10,000
+      Private Room: ₹15,000
+      Deluxe Suite: ₹25,000
+  - Balance of deposit returned at discharge after settling all dues
+
+Emergency Admissions:
+  - No prior documentation required to begin treatment
+  - Documents to be submitted within 24 hours of admission
+  - If patient is unidentified: Treatment initiated; helpline and police informed
+
+--- DISCHARGE POLICY ---
+
+Discharge Process:
+  Step 1: Treating doctor issues discharge order (usually in the morning)
+  Step 2: Nursing team prepares discharge summary and medication list
+  Step 3: Billing department prepares final bill (allow 2–4 hours)
+  Step 4: Patient / family reviews and settles the bill
+  Step 5: Pharmacy provides discharge medications
+  Step 6: Collect original discharge summary, reports, and prescriptions
+  Step 7: Security clears patient at gate upon showing discharge slip
+
+Discharge Timing:
+  Preferred Discharge Time: By 12:00 PM (noon)
+  Late Discharge (after 12 PM): Half-day room charges applicable
+  Very Late Discharge (after 6 PM): Full-day room charges applicable
+
+LAMA (Leave Against Medical Advice):
+  - Patient or family can choose to leave even if doctor advises against it
+  - LAMA form must be signed by patient/guardian
+  - Hospital is not responsible for consequences after LAMA
+
+--- REFUND POLICY ---
+
+Advance / Deposit Refund:
+  - Refunded at discharge after deducting all dues
+  - Refund Mode: Same as payment mode (cash returns cash; card/UPI returns to original account)
+  - Processing: Immediate at billing counter
+
+Appointment Cancellation Refund:
+  - Cancelled 2+ hours before: Full refund
+  - Late cancellation: ₹50 deducted
+  - Online refund to original payment method: 5–7 working days
+  - Counter payment refund: Same day at billing counter
+
+Package Refund:
+  - Health packages: Refundable if cancelled before any test is done (minus ₹100 admin fee)
+  - Partially used packages: Non-refundable for used components; balance may be transferred
+
+Surgery/Procedure Cancellation:
+  - Cancelled 48+ hours before: Full refund of advance
+  - Cancelled within 48 hours: 25% of advance deducted as cancellation charges
+  - Cancelled on the day of procedure: 50% deducted
+  - Cancellation due to medical reasons: Full refund after review
+
+--- NO-SMOKING / NO-ALCOHOL POLICY ---
+
+City Hospital is a NO SMOKING, NO ALCOHOL, NO TOBACCO zone.
+Smoking (including e-cigarettes) is strictly prohibited anywhere on hospital premises.
+Violators may be asked to leave the premises.
+This applies to patients, visitors, attendants, and staff.
+
+--- MOBILE PHONE POLICY ---
+
+Mobile phones are permitted in most areas.
+Phones must be on SILENT in all wards, OPDs, and procedure rooms.
+Mobile usage is STRICTLY PROHIBITED in:
+  - ICU / NICU
+  - Operation Theatres
+  - MRI Rooms (metallic interference with machine)
+  - Neonatal Units
+
+--- PHOTOGRAPHY & VIDEOGRAPHY ---
+
+Photography of patients WITHOUT consent is strictly prohibited.
+Recording medical procedures without written consent of the doctor is prohibited.
+Security cameras are installed throughout the hospital for patient and staff safety.
+
+--- COMPLAINT & GRIEVANCE POLICY ---
+
+How to Raise a Complaint:
+  - Speak with the Nursing Supervisor (Ward Level)
+  - Speak with the Patient Experience Manager (Ground Floor, Reception)
+  - Email: feedback@cityhospital.in
+  - Fill Complaint Form available at any nursing station or reception
+  - Online form: www.cityhospital.in/feedback
+
+Resolution Timeline:
+  - Acknowledgement: Within 24 hours
+  - Resolution: Within 7 working days for most issues
+  - Complex complaints: Within 15 working days
+  - Escalation to Hospital Director: Available if not resolved
+
+--- MEDICAL RECORDS POLICY ---
+
+Patients may request their medical records in writing.
+Allowed requests: Discharge summary, investigation reports, operation notes.
+Processing Time: 3–5 working days.
+Records Department: 1st Floor, Main Building.
+Records are kept for 7 years as per Indian law.
+Electronic copies can be emailed on written request.
+
+--- CHILD SAFETY POLICY ---
+
+Children under 12 are not permitted in general wards or ICU.
+Children must be accompanied by a guardian at all times.
+Pediatric ward is restricted to patient and 2 guardians only.
+Photography of children without parental consent is strictly prohibited.
+
+--- INFECTION CONTROL POLICY ---
+
+All visitors must sanitize hands at entry.
+Hand sanitizer dispensers are placed at all ward entrances.
+Masks are mandatory for visitors in ICU, NICU, and Oncology wards.
+Patients showing signs of contagious illness may be placed in isolation.
+No outside food is permitted in ICU.
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- What are visiting hours?
+- Can children visit ICU?
+- What is the discharge process?
+- What is the refund policy?
+- Can I take photos inside the hospital?
+- How do I complain about my experience?
+- Is smoking allowed?
+- How do I get my medical records?
+- What is the security deposit for admission?
+========================================

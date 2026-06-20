@@ -1,0 +1,164 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: LAB REPORTS & DIAGNOSTICS
+========================================
+
+--- LAB OVERVIEW ---
+
+Lab Name: City Hospital Diagnostics & Pathology Centre
+NABL Accreditation: Yes (Lab Registration No: MC-2342)
+Timings:
+  Sample Collection:     7:00 AM – 7:00 PM (Mon–Sat)
+                         7:00 AM – 12:00 PM (Sunday)
+  Home Collection:       7:00 AM – 10:00 AM (Book via app or call +91-9876543210)
+  Emergency Lab:         24x7 (for urgent/critical tests)
+Report Delivery:
+  Most routine reports:  4–6 hours
+  Culture reports:       24–72 hours
+  Histopathology:        5–7 working days
+Location: Ground Floor, Wing C (Near Emergency Entrance)
+
+--- TEST PREPARATION INSTRUCTIONS ---
+
+BLOOD TESTS REQUIRING FASTING:
+  - Fasting Blood Sugar (FBS): Fast for 8–10 hours. Only water is allowed.
+  - Lipid Profile: Fast for 9–12 hours. Avoid fatty food the night before.
+  - HbA1c: No fasting required.
+  - Liver Function Test (LFT): Fast for 8 hours preferred (not strictly mandatory).
+  - Kidney Function Test: No fasting required.
+  - Thyroid Profile (T3, T4, TSH): No fasting required. Best done in the morning.
+  - Complete Blood Count (CBC): No fasting required.
+  - Vitamin D3 / B12: No fasting required.
+  - Insulin Fasting: Fast for 8 hours.
+  - Cortisol (morning): No fasting; ideally collected between 8–10 AM.
+
+URINE TESTS:
+  - Urine Routine & Microscopy: First morning urine (mid-stream sample) is preferred.
+  - 24-Hour Urine Collection:
+      Step 1: Discard the first morning urine.
+      Step 2: Collect ALL urine for the next 24 hours in the container provided.
+      Step 3: Include the first morning urine of the second day.
+      Step 4: Keep container refrigerated.
+  - Urine Pregnancy Test (hCG): First morning urine gives most accurate result.
+  - Urine Culture: Mid-stream clean-catch sample in sterile container.
+
+STOOL TESTS:
+  - Stool Routine & Culture: Fresh sample (less than 2 hours old) in sterile container.
+  - H. Pylori Stool Antigen: Fresh sample; avoid antibiotics/PPIs for 2 weeks before test.
+  - Avoid barium tests 7 days before stool tests.
+
+CULTURE TESTS (Blood, Urine, Wound):
+  - Blood Culture: Ideally collected at fever spike; 3 samples from different sites.
+  - Avoid antibiotics before culture if possible (inform doctor).
+
+--- SPECIFIC TEST INSTRUCTIONS ---
+
+ECG (Electrocardiogram):
+  - No special preparation needed
+  - Wear comfortable, loose-fitting clothing
+  - Avoid oily skin creams on chest area on the day of test
+  - Inform technician of any pacemaker or metal implants
+
+Echocardiography (Echo):
+  - No fasting required
+  - Wear loose clothing
+  - Avoid applying powder or lotion on chest
+
+Treadmill Test (TMT / Stress Test):
+  - Wear comfortable shoes and clothing suitable for walking/running
+  - Do NOT eat 3 hours before the test (light snack allowed)
+  - Avoid caffeine and smoking 4 hours before
+  - Inform doctor of all medications – some may be paused before TMT
+  - Bring all current medicines list
+  - Test takes approximately 30–45 minutes
+
+CT Scan:
+  - Abdominal CT: Fast for 4 hours before if contrast is used
+  - CT Head: No preparation needed unless contrast required
+  - CT with contrast (dye): Blood creatinine test required first (check kidney function)
+  - Inform technician if: pregnant, diabetic (on Metformin), allergic to iodine/shellfish
+  - Remove metallic objects, jewelry before scan
+  - Scan takes 5–15 minutes
+
+MRI:
+  - No radiation; uses magnetic field
+  - Fast for 4 hours if abdominal/pelvic MRI with contrast
+  - MUST inform about: pacemakers, cochlear implants, aneurysm clips, metal implants
+  - Remove ALL metallic objects, cards, hearing aids, jewelry
+  - No makeup/cosmetics (some contain metallic particles)
+  - Patients with claustrophobia should inform us in advance (mild sedation can be arranged)
+  - Scan takes 30–60 minutes depending on body part
+  - Wear loose, comfortable clothing
+
+Ultrasound:
+  - Abdomen USG: Fast for 6–8 hours (water only allowed)
+  - Pelvis USG: Full bladder needed – drink 4–6 glasses of water 1 hour before; DO NOT urinate
+  - Obstetric USG (pregnancy): Full bladder for first trimester; empty bladder for later trimesters
+  - Thyroid / Neck USG: No preparation required
+  - No preparation for breast or musculoskeletal ultrasound
+
+Endoscopy (Upper GI):
+  - Strict fasting: No food or drink for 6–8 hours before procedure
+  - Inform doctor of blood thinners (aspirin, warfarin) – may need to stop
+  - You will need a companion to take you home (sedation is given)
+  - Wear comfortable clothes
+  - The procedure takes 15–30 minutes
+
+Colonoscopy:
+  - Bowel preparation (laxative) required the day before – we will provide a preparation kit
+  - Clear liquid diet the day before (water, clear broth, apple juice – no red or purple)
+  - Nothing by mouth 6 hours before procedure
+  - Blood thinners may need to be paused (consult doctor)
+  - You need a companion to accompany you home
+  - Procedure takes 30–60 minutes
+
+Pap Smear:
+  - Avoid sexual intercourse 2 days before
+  - Do not use vaginal creams, douches, or tampons 2 days before
+  - Ideally done mid-cycle (10–20 days after period start)
+  - Not done during menstruation
+
+--- REPORT COLLECTION & DELIVERY ---
+
+How to Collect Reports:
+  1. Counter: Lab Report Counter, Ground Floor, Wing C (7 AM – 8 PM)
+  2. Online: Download from www.cityhospital.in/reports (Patient ID + Date of Birth)
+  3. WhatsApp: Reports sent automatically to registered mobile number
+  4. Email: Request at lab reception for email delivery
+
+Report Turnaround Times:
+  Routine Blood Tests:    4–6 hours
+  Urine / Stool:         Same day
+  Culture Reports:        24–72 hours
+  Thyroid / Hormones:    Same day to next day
+  CT / X-Ray:            2–4 hours (images + report)
+  MRI:                   Same day to 24 hours
+  Histopathology/Biopsy: 5–7 working days
+  Genetic Tests:          2–3 weeks
+
+Normal Value Reference Ranges (on report):
+  - All reports include reference ranges
+  - Values outside range are marked HIGH (H) or LOW (L) in red
+  - Borderline values are flagged separately
+  - A doctor must interpret your report; ranges alone do not constitute a diagnosis
+
+--- HOME SAMPLE COLLECTION ---
+
+Available for: Blood tests, Urine tests, Stool tests
+Timing: 7:00 AM – 10:00 AM (Mon–Sat)
+Booking: App, website, or WhatsApp (+91-9876543210)
+Area: Within 10 km of hospital
+Charges: ₹100 home visit fee + test cost
+Report: Delivered via WhatsApp or email within 6–8 hours of sample pickup
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- Do I need to fast before a blood test?
+- What is the preparation for MRI?
+- How do I collect my lab report?
+- Can I get a home blood sample collection?
+- What preparation is needed for colonoscopy?
+- Do I need a full bladder for ultrasound?
+- How long does it take to get reports?
+- What time does the lab open?
+========================================

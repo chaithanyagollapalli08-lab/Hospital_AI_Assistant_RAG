@@ -1,0 +1,166 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: FREQUENTLY ASKED QUESTIONS (FAQ)
+========================================
+
+This file is optimized for RAG retrieval. Each Q&A pair is a standalone chunk.
+
+--- GENERAL ---
+
+Q: What is City Hospital?
+A: City Hospital & Research Centre is a NABH-accredited, multi-speciality tertiary care hospital in Kukatpally, Hyderabad with 350 beds and over 30 specialities. We offer OPD, IPD, emergency, surgery, diagnostics, and preventive healthcare under one roof.
+
+Q: What are your hospital's working hours?
+A: OPD runs Monday to Saturday from 8:00 AM to 8:00 PM and Sunday from 8:00 AM to 2:00 PM. The Emergency department, ICU, and pharmacy (emergency) are open 24 hours, 7 days a week.
+
+Q: Where is City Hospital located?
+A: We are at Plot No. 45, Sector 12, HITECH City Road, Kukatpally, Hyderabad – 500072. We are opposite the JNTU Metro Station.
+
+Q: How do I contact the hospital?
+A: Main Reception: +91-40-12345678 | Emergency: +91-40-12345600 (24x7) | WhatsApp: +91-9876543210 | Email: info@cityhospital.in
+
+--- APPOINTMENTS ---
+
+Q: How do I book an appointment?
+A: You can book online at www.cityhospital.in/appointments, through our mobile app, by calling +91-40-12345680, via WhatsApp (+91-9876543210), or by walking in to our Reception. Online booking is recommended as it guarantees your slot.
+
+Q: Can I book an appointment for the same day?
+A: Yes, same-day appointments are available subject to slot availability. Online bookings show real-time availability. Walk-ins are accepted on a first-come basis with limited slots.
+
+Q: How far in advance can I book an appointment?
+A: Slots open 7 days in advance from the current date.
+
+Q: Can I cancel my appointment?
+A: Yes. Cancel via the app, website, or by calling reception. Cancel at least 2 hours before your appointment to avoid a ₹50 cancellation fee.
+
+Q: How do I reschedule my appointment?
+A: Login to the app or website → My Appointments → Reschedule. Or call reception with your Appointment ID. Rescheduling is allowed up to 2 times per booking.
+
+Q: Is a video consultation available?
+A: Yes, video consultations are available for select doctors at ₹300 flat. Book via the app. Available Monday to Saturday, 9:00 AM – 6:00 PM.
+
+Q: What should I bring to my appointment?
+A: Bring your previous prescriptions and reports, your Aadhar card or hospital ID card, and your insurance card (if using insurance). Arrive 15 minutes before your scheduled time.
+
+Q: What is a follow-up appointment?
+A: If you are revisiting the same doctor within 30 days of your last visit, it qualifies as a follow-up. Mention "Follow-up" while booking. Follow-up fee is only ₹100 regardless of department.
+
+--- DOCTORS ---
+
+Q: How do I find the right doctor for my condition?
+A: You can search by specialisation on our website or app, or describe your symptoms and our reception team will guide you to the correct department. Our helpline (+91-40-12345678) is also available.
+
+Q: Can I see a specific doctor?
+A: Yes. When booking, select the doctor by name after choosing the department. Availability varies by doctor; you will see only available slots on the booking page.
+
+Q: What is the consultation fee?
+A: Fees vary by specialisation: General Physician – ₹300; Pediatrics – ₹500; Cardiology/Neurology – ₹700–₹900; most other specialities – ₹500–₹800. Follow-up visits are ₹100.
+
+--- BILLING & PAYMENTS ---
+
+Q: What payment methods do you accept?
+A: We accept Cash, Credit/Debit Cards, UPI (GPay, PhonePe, Paytm), Net Banking, and EMI (0% EMI on bills above ₹10,000 with select banks).
+
+Q: Can I pay my bill online?
+A: Yes. Visit www.cityhospital.in/pay-bill and enter your Patient ID or Appointment ID to pay securely.
+
+Q: Do you offer EMI for large bills?
+A: Yes. 0% EMI is available on bills of ₹10,000 or more through select partner banks including HDFC, ICICI, and Axis Bank. Ask the billing counter for details.
+
+Q: What is the cost of an MRI?
+A: MRI costs vary by body part: MRI Brain – ₹6,500; MRI Spine – ₹6,500 per region; MRI Knee/Shoulder – ₹5,500; MRI Whole Spine – ₹12,000.
+
+Q: What is the cost of a CT scan?
+A: CT Head – ₹3,500; CT Chest – ₹4,000; CT Abdomen + Pelvis – ₹5,500; CT Angiography (Coronary) – ₹12,000.
+
+Q: Do health packages cover consultation fees?
+A: Yes, all health packages include a doctor's consultation as part of the package. No separate consultation fee is charged.
+
+--- INSURANCE ---
+
+Q: Do you accept health insurance?
+A: Yes. We accept most major health insurance providers including Star Health, HDFC Ergo, ICICI Lombard, Bajaj Allianz, Niva Bupa, Aditya Birla, and many others. Government schemes like CGHS, ECHS, and ESI are also accepted.
+
+Q: What is cashless hospitalization?
+A: Cashless means your insurer pays the hospital directly for covered expenses. You do not need to pay upfront. Cashless is available for in-patient (IPD) admissions for most major insurers.
+
+Q: Is OPD covered under cashless?
+A: Generally, OPD visits are NOT covered under cashless for standard plans. Some premium insurance plans do include OPD coverage. Please verify with your insurance provider.
+
+Q: What documents do I need for cashless?
+A: You need your health insurance card/policy document, a photo ID (Aadhar/PAN), and to inform our insurance desk at the time of admission. Our team will coordinate the rest with your TPA.
+
+Q: What if my insurance claim is rejected?
+A: If cashless is rejected, you pay the bill and claim reimbursement from your insurer. We will provide all necessary documents including discharge summary, bills, and medical reports.
+
+--- LAB & DIAGNOSTICS ---
+
+Q: Do I need fasting before a blood test?
+A: It depends on the test. Fasting tests include: Fasting Blood Sugar (8–10 hrs), Lipid Profile (9–12 hrs), Fasting Insulin (8 hrs). Tests like CBC, Thyroid, Vitamin D, and Kidney Function do not require fasting. When in doubt, fast for 8 hours and drink only water.
+
+Q: What time does the lab open?
+A: Sample collection starts at 7:00 AM Monday to Saturday and 7:00 AM to 12:00 PM on Sundays. Emergency lab is open 24x7.
+
+Q: How do I get my lab report?
+A: Reports are sent automatically via WhatsApp to your registered number. You can also download from www.cityhospital.in/reports using your Patient ID. Reports can also be collected in person at the Lab Counter, Ground Floor.
+
+Q: Is home sample collection available?
+A: Yes. Home sample collection is available Monday to Saturday between 7:00 AM and 10:00 AM within a 10 km radius. Book via app, website, or WhatsApp. There is a ₹100 home visit fee.
+
+Q: Do I need to drink water before an ultrasound?
+A: For pelvic ultrasound, yes – drink 4–6 glasses of water 1 hour before and do NOT urinate until after the scan. For abdominal ultrasound, fast for 6–8 hours. Thyroid or breast ultrasound needs no preparation.
+
+Q: How long does it take to get MRI or CT scan reports?
+A: CT scan reports are ready in 2–4 hours. MRI reports are typically ready same day or within 24 hours.
+
+--- EMERGENCY ---
+
+Q: What is the emergency number?
+A: Hospital Emergency: +91-40-12345600 (24x7) | Ambulance: +91-9876540000 | Government Ambulance (Free): 108
+
+Q: Does the hospital have ambulance service?
+A: Yes. Both Basic Life Support (BLS) and Advanced Life Support (ALS) ambulances are available 24x7 at +91-9876540000. Average response time is 15–20 minutes within 10 km.
+
+Q: Do I need an appointment for an emergency?
+A: No. Walk or be brought directly to the Emergency Room entrance. Triage happens immediately without any prior booking.
+
+--- ADMISSION & IPD ---
+
+Q: How do I get admitted to the hospital?
+A: Admission can happen through the Emergency Room (for urgent cases) or planned admission (for scheduled surgeries/procedures). Your treating doctor will issue an admission note, and our admission desk will guide you through room selection and paperwork.
+
+Q: What room types are available?
+A: We offer General Ward (shared), Semi-Private Room (2-bed), Private Room (1-bed), Deluxe Suite, and ICU beds.
+
+Q: Can family members stay overnight with a patient?
+A: Yes, one attendant per patient is permitted to stay overnight. An Attendant Pass is issued free at Reception. Additional passes cost ₹50/day.
+
+Q: What items should I bring for hospital admission?
+A: Comfortable clothing, toiletries, prescribed medicines, all previous reports, identity proof (Aadhar/PAN), insurance card (if applicable), and a phone charger.
+
+--- MISCELLANEOUS ---
+
+Q: Is free Wi-Fi available?
+A: Yes. Free Wi-Fi is available for patients and attendants. Network: CityHospital_Guest. Get the password from Reception.
+
+Q: Is parking available at the hospital?
+A: Yes. 2-wheeler parking is free. 4-wheeler parking in the basement costs ₹30 for the first 2 hours, then ₹20/hour. Valet parking is available at the main gate for ₹50.
+
+Q: Does the hospital have a pharmacy?
+A: Yes. A full pharmacy is open 7:00 AM – 10:00 PM daily. A 24-hour pharmacy is available in the Emergency block.
+
+Q: Is a cafeteria available?
+A: Yes. The cafeteria is on the Ground Floor, Wing B, open from 7:00 AM to 9:00 PM offering vegetarian meals, snacks, and juices.
+
+Q: How do I give feedback about my experience?
+A: You can email feedback@cityhospital.in, fill the feedback form at Reception, rate us on Google, or use the Feedback section in our mobile app.
+
+Q: Is the hospital NABH accredited?
+A: Yes. City Hospital holds NABH (National Accreditation Board for Hospitals) accreditation, which certifies our adherence to the highest patient safety and quality standards.
+
+========================================
+NOTE FOR RAG ENGINEERS:
+This FAQ file is optimized for dense retrieval. Each Q-A pair can be indexed
+as a separate chunk. Embedding both the question and answer together gives
+better semantic match. Consider using question-focused embeddings.
+========================================

@@ -1,0 +1,139 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: BILLING & PRICING
+========================================
+
+--- CONSULTATION FEES ---
+
+General Physician / Family Medicine:   ₹300
+Pediatrics:                            ₹500
+Dermatology:                           ₹600
+Orthopedics:                           ₹600
+Gynecology / Obstetrics:               ₹600
+Ophthalmology:                         ₹500
+ENT:                                   ₹500
+Cardiology:                            ₹700 – ₹900
+Neurology:                             ₹750 – ₹900
+Gastroenterology:                      ₹800
+Endocrinology / Diabetes:              ₹800
+Psychiatry:                            ₹700
+Oncology:                              ₹1,000
+Follow-up Consultation (within 30 days): ₹100 (all departments)
+Video Consultation:                    ₹300 (flat)
+
+--- DIAGNOSTIC TESTS - BLOOD & PATHOLOGY ---
+
+Complete Blood Count (CBC):            ₹150
+Blood Sugar (Fasting / PP / Random):   ₹60 each
+HbA1c (Glycated Hemoglobin):           ₹350
+Lipid Profile:                         ₹350
+Liver Function Test (LFT):             ₹450
+Kidney Function Test (KFT / RFT):      ₹450
+Thyroid Profile (T3, T4, TSH):         ₹600
+Vitamin D3:                            ₹700
+Vitamin B12:                           ₹600
+Urine Routine Examination:             ₹100
+Complete Urine Analysis:               ₹200
+Dengue NS1 Antigen + IgM/IgG:         ₹900
+Malaria Antigen Test:                  ₹400
+COVID-19 RT-PCR:                       ₹500
+COVID-19 Rapid Antigen:                ₹300
+Pregnancy Test (Urine hCG):            ₹200
+PSA (Prostate Specific Antigen):       ₹700
+CA-125 (Ovarian Cancer Marker):        ₹800
+CEA (Cancer Marker):                   ₹800
+Stool Routine & Microscopy:            ₹150
+HIV I & II (ELISA):                    ₹400
+Hepatitis B Surface Antigen:           ₹350
+HCV Antibody:                          ₹400
+
+--- IMAGING & RADIOLOGY ---
+
+X-Ray (Single Part):                   ₹200
+X-Ray (Two Parts):                     ₹350
+Ultrasound Abdomen:                    ₹600
+Ultrasound Pelvis:                     ₹600
+Ultrasound Whole Abdomen + Pelvis:     ₹900
+Echo (Echocardiography):               ₹1,500
+ECG (Electrocardiogram):               ₹150
+TMT (Treadmill Test / Stress Test):    ₹1,800
+CT Scan – Head:                        ₹3,500
+CT Scan – Chest:                       ₹4,000
+CT Scan – Abdomen + Pelvis:            ₹5,500
+CT Angiography (Coronary):             ₹12,000
+MRI Brain:                             ₹6,500
+MRI Spine (Lumbar):                    ₹6,500
+MRI Spine (Cervical):                  ₹6,500
+MRI Knee / Shoulder / Ankle:           ₹5,500
+MRI Whole Spine:                       ₹12,000
+PET Scan:                              ₹18,000
+Mammography:                           ₹1,500
+DEXA Scan (Bone Density):              ₹1,500
+Doppler (Peripheral / Venous):         ₹1,800
+
+--- PROCEDURES & OTHER TESTS ---
+
+Spirometry (Lung Function):            ₹500
+EEG:                                   ₹1,200
+NCV / EMG:                             ₹2,000
+Upper GI Endoscopy:                    ₹3,500
+Colonoscopy:                           ₹5,000
+Pap Smear:                             ₹400
+Fine Needle Aspiration (FNAC):         ₹800
+Biopsy (Tissue):                       ₹1,500 – ₹3,000
+
+--- HEALTH PACKAGES ---
+
+Basic Health Checkup Package:          ₹999
+  Includes: CBC, Blood Sugar (F), Urine Routine, ECG, X-Ray Chest, Consultation
+
+Master Health Checkup Package:         ₹2,499
+  Includes: CBC, LFT, KFT, Lipid Profile, Thyroid, Blood Sugar, HbA1c,
+            Urine Routine, ECG, X-Ray Chest, USG Abdomen, Consultation
+
+Executive Health Package (Male):       ₹4,999
+  Includes: All in Master + PSA, Vitamin D, B12, TMT, Echo, Ophthalmology, Dental
+
+Executive Health Package (Female):     ₹4,999
+  Includes: All in Master + CA-125, Pap Smear, Vitamin D, B12, Mammography,
+            Gynecology Consultation, Ophthalmology
+
+Diabetic Care Package:                 ₹1,499
+  Includes: FBS, PP Blood Sugar, HbA1c, KFT, Lipid Profile, Urine Microalbumin,
+            Endocrinology Consultation
+
+Cardiac Care Package:                  ₹3,999
+  Includes: Lipid Profile, CBC, Blood Sugar, ECG, Echo, TMT, Cardiology Consultation
+
+Senior Citizen Package (60+):          ₹3,499
+  Includes: All in Master + Bone Density (DEXA), Eye Check, Cardiology Review
+
+--- BILLING & PAYMENT ---
+
+Payment Modes Accepted:
+  - Cash
+  - Credit/Debit Cards (Visa, Mastercard, RuPay)
+  - UPI (GPay, PhonePe, Paytm, BHIM)
+  - Net Banking
+  - EMI (0% EMI available on bills above ₹10,000 – select banks)
+
+Billing Counter Location: Ground Floor, Main Lobby
+Billing Hours: 7:30 AM – 9:00 PM (Mon–Sat) | 8:00 AM – 2:00 PM (Sunday)
+
+Online Bill Payment: www.cityhospital.in/pay-bill
+  - Enter Patient ID / Appointment ID and pay securely
+
+Itemized Bill: Available on request at billing counter or via email
+
+GST: Applicable on non-medical services (18%); medical services are GST exempt.
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- What is the MRI cost?
+- How much does a CT scan cost?
+- What is the consultation fee for cardiology?
+- What health packages do you offer?
+- What is the cost of a blood test?
+- Do you offer EMI?
+- What payment modes are accepted?
+========================================

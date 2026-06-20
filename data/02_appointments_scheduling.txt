@@ -1,0 +1,122 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: APPOINTMENTS & SCHEDULING
+========================================
+
+--- BOOKING CHANNELS ---
+
+1. ONLINE BOOKING (Recommended)
+   Website: www.cityhospital.in/appointments
+   App: City Hospital App (Available on Android & iOS)
+   Steps:
+     Step 1: Open website or app
+     Step 2: Click on "Book Appointment"
+     Step 3: Select Department / Specialization
+     Step 4: Choose your preferred Doctor
+     Step 5: Select available Date and Time Slot
+     Step 6: Enter Patient Details (Name, Age, Mobile Number)
+     Step 7: Pay consultation fee online (optional, can pay at counter)
+     Step 8: Receive confirmation SMS and WhatsApp message with appointment ID
+
+2. PHONE BOOKING
+   Call: +91-40-12345678 / +91-40-87654321
+   WhatsApp: +91-9876543210
+   Timing: 8:00 AM – 8:00 PM (Monday to Saturday)
+              9:00 AM – 2:00 PM (Sunday)
+   Steps: Provide Name, Age, Department, Preferred Date, and Doctor Name
+
+3. WALK-IN (Counter Booking)
+   Location: Main Reception, Ground Floor
+   Timing: 7:30 AM – 7:00 PM (Mon–Sat) | 8:00 AM – 2:00 PM (Sunday)
+   Token system: Walk-in tokens issued on first-come first-served basis
+   Note: Walk-in slots are limited; online booking is always preferred.
+
+4. WHATSAPP BOOKING
+   Message "BOOK" to +91-9876543210
+   Bot will guide you step by step
+
+--- OPD TIMINGS ---
+
+General OPD (All departments): 8:00 AM – 8:00 PM
+Morning Session: 8:00 AM – 1:00 PM
+Evening Session: 4:00 PM – 8:00 PM
+Closed: Sundays (Emergency open 24x7)
+
+--- SLOT AVAILABILITY RULES ---
+
+- Slots open 7 days in advance
+- Maximum 2 appointments per patient per week for same department
+- Slot duration per patient: 15 minutes (General) | 30 minutes (Post-operative)
+- Online slots: 70% of total capacity
+- Walk-in slots: 30% of total capacity reserved
+- Cancellation: Must be done 2 hours before appointment time
+
+--- RESCHEDULING & CANCELLATION ---
+
+How to Reschedule:
+  - Online: Login → My Appointments → Reschedule
+  - Phone: Call reception with Appointment ID
+  - Rescheduling allowed up to 2 times per booking
+
+How to Cancel:
+  - Cancel via App, Website, or Phone
+  - Cancellation fee: None if cancelled 2+ hours before appointment
+  - Late cancellation fee: ₹50
+
+Refund Policy:
+  - Online payment cancellation: Refunded within 5-7 working days to original payment method
+  - Counter payment: Refunded same day at the billing counter
+
+--- APPOINTMENT REMINDERS ---
+
+- SMS reminder: 24 hours before appointment
+- WhatsApp reminder: 2 hours before appointment
+- Patients must arrive 15 minutes before scheduled time
+- Bring: Previous prescriptions, reports, Aadhar card (or hospital ID card)
+
+--- SPECIAL APPOINTMENT TYPES ---
+
+1. Emergency Appointment
+   Available 24x7
+   Walk directly to Emergency Department
+   No prior booking required
+
+2. Follow-up Appointment
+   Valid within 30 days of first visit (same doctor)
+   Reduced fee: ₹100 for follow-up (instead of full consultation fee)
+   Mention "Follow-up" while booking
+
+3. Video Consultation (Telemedicine)
+   Available for selected doctors
+   Platform: City Hospital App / Zoom link sent via SMS
+   Fee: ₹300 flat for video consultation
+   Available: 9:00 AM – 6:00 PM (Mon–Sat)
+
+4. Second Opinion Consultation
+   Available for Oncology, Cardiology, Neurology
+   Requires upload of previous reports
+   Fee: ₹1,000
+
+--- DEPARTMENTS & THEIR OPD TIMINGS ---
+
+Cardiology:        Mon, Wed, Fri | 9:00 AM – 1:00 PM
+Neurology:         Mon, Tue, Thu | 11:00 AM – 3:00 PM
+Orthopedics:       Mon–Sat | 8:00 AM – 12:00 PM
+Gynecology:        Mon–Sat | 9:00 AM – 11:00 AM, 4:00 PM – 6:00 PM
+Pediatrics:        Daily | 9:00 AM – 1:00 PM, 5:00 PM – 7:00 PM
+Dermatology:       Mon, Wed, Fri, Sat | 11:00 AM – 2:00 PM
+General Medicine:  Mon–Sat | 8:00 AM – 8:00 PM
+Psychiatry:        Mon, Wed, Fri | 2:00 PM – 5:00 PM (Prior booking mandatory)
+Ophthalmology:     Mon–Sat | 10:00 AM – 1:00 PM
+ENT:               Daily (except Sun) | 9:00 AM – 12:00 PM
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- How can I book an appointment?
+- What is the OPD timing for cardiology?
+- Can I book online?
+- How do I cancel my appointment?
+- Is video consultation available?
+- What time should I arrive before my appointment?
+- How do I reschedule?
+========================================

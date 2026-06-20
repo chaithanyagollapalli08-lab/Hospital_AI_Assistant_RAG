@@ -1,0 +1,183 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: RECEPTION & GENERAL INFORMATION
+========================================
+
+--- HOSPITAL PROFILE ---
+
+Name: City Hospital & Research Centre
+Type: Multi-Speciality Tertiary Care Hospital
+Established: 2005
+Beds: 350 (including 60 ICU beds)
+Accreditation: NABH Accredited | ISO 9001:2015 Certified
+NABL Accredited Laboratory
+
+--- ADDRESS & LOCATION ---
+
+Address:
+  City Hospital & Research Centre
+  Plot No. 45, Sector 12, HITECH City Road,
+  Kukatpally, Hyderabad – 500072
+  Telangana, India
+
+Landmark: Opposite JNTU Metro Station, Near Kukatpally Bus Stop
+
+Google Maps Link: https://maps.google.com/?q=City+Hospital+Kukatpally+Hyderabad
+
+Pincode: 500072
+
+--- HOW TO REACH US ---
+
+By Metro:
+  - Nearest Station: JNTU College Metro Station (Red Line)
+  - Exit Gate 2, walk 3 minutes towards HITECH City Road
+
+By Bus:
+  - TSRTC Bus Stop: Kukatpally Bus Stand (200 meters from hospital)
+  - Bus Numbers: 216, 81, 127, MN-7
+
+By Auto / Cab:
+  - Tell the driver: "City Hospital, HITECH City Road, Kukatpally"
+  - Available via Ola, Uber, Rapido
+
+Parking:
+  - Free 2-wheeler parking: Available on campus
+  - 4-wheeler parking: Available in basement (₹30 first 2 hours, ₹20/hour thereafter)
+  - Valet parking: Available at Main Gate (₹50 flat)
+
+--- CONTACT INFORMATION ---
+
+Main Reception:         +91-40-12345678
+                        +91-40-12345679
+Appointment Booking:    +91-40-12345680
+Emergency Helpline:     +91-40-12345600 (24x7)
+Ambulance:              +91-9876540000 (24x7)
+Billing Desk:           +91-40-12345685
+Insurance Desk:         +91-40-12345699
+Blood Bank:             +91-40-12345690
+Lab / Reports:          +91-40-12345695
+WhatsApp:               +91-9876543210
+
+Email:
+  General Inquiries:    info@cityhospital.in
+  Appointments:         appointments@cityhospital.in
+  Insurance:            insurance@cityhospital.in
+  Medical Records:      records@cityhospital.in
+  Feedback:             feedback@cityhospital.in
+
+Website: www.cityhospital.in
+
+Social Media:
+  Facebook:   facebook.com/cityhospitalhyd
+  Instagram:  @cityhospital_hyd
+  YouTube:    City Hospital Hyderabad
+
+--- HOSPITAL TIMINGS ---
+
+OPD (Outpatient Department):
+  Monday to Saturday: 8:00 AM – 8:00 PM
+  Sunday:             8:00 AM – 2:00 PM (Emergency: 24x7)
+
+Reception / Help Desk:
+  Monday to Sunday:   7:30 AM – 9:00 PM
+
+Pharmacy:
+  In-hospital Pharmacy:  7:00 AM – 10:00 PM (Daily)
+  24-hour Pharmacy:      Available in Emergency Block (24x7)
+
+Laboratory / Diagnostics:
+  Sample Collection:     7:00 AM – 7:00 PM (Mon–Sat)
+                         7:00 AM – 12:00 PM (Sunday)
+  Home Sample Collection: 7:00 AM – 10:00 AM (Book via app or phone)
+
+Radiology (CT, MRI, X-Ray, Ultrasound):
+  Monday to Saturday: 7:00 AM – 9:00 PM
+  Sunday:             8:00 AM – 2:00 PM
+  Emergency Radiology: 24x7 for CT and X-Ray
+
+Blood Bank:            24 Hours, 7 Days
+
+ICU / NICU / Emergency: Open 24 Hours, 7 Days
+
+--- FACILITIES & AMENITIES ---
+
+Cafeteria / Canteen:
+  Location: Ground Floor, Wing B
+  Timings: 7:00 AM – 9:00 PM
+  Offers vegetarian meals, snacks, juices
+
+ATM: Yes – Ground Floor Lobby (HDFC Bank ATM)
+
+Prayer Room: 3rd Floor, Wing D (open to all religions)
+
+Wheelchair: Available free of charge at reception
+
+Patient Attendant Passes:
+  - Only 1 attendant per IPD patient is permitted
+  - Attendant Pass issued at Reception (free)
+  - Additional pass: ₹50/day
+
+Wi-Fi: Free hospital Wi-Fi available for patients and attendants
+  Network: CityHospital_Guest | Password: Obtained from Reception
+
+Drinking Water: RO Water stations on every floor
+
+--- DEPARTMENTS & FLOOR GUIDE ---
+
+Ground Floor:
+  - Main Reception
+  - Emergency & Trauma
+  - Pharmacy (24-hr)
+  - Billing & Cash Counter
+  - Insurance Desk
+  - Radiology (X-Ray, Ultrasound)
+  - Cafeteria
+
+First Floor:
+  - OPD Block A: General Medicine, Orthopedics, Dermatology, ENT
+  - Medical Records Department
+  - Waiting Lounge
+
+Second Floor:
+  - OPD Block B: Cardiology, Ophthalmology
+  - Echo & ECG Lab
+  - Cardiology Procedures Room
+
+Third Floor:
+  - OPD Block C: Neurology, Psychiatry
+  - EEG & NCV Lab
+
+Fourth Floor:
+  - OPD Block D: Gastroenterology, Endocrinology, Diabetology
+  - Endoscopy Suite
+
+Fifth Floor:
+  - OPD Block E: Gynecology, Obstetrics, Pediatrics
+  - NICU
+  - Delivery Suite
+
+Sixth Floor:
+  - Operation Theatre Complex (6 OTs)
+  - Pre-op & Post-op Wards
+
+Seventh Floor & Above:
+  - General Wards
+  - Semi-Private Rooms
+  - Private Rooms
+  - Deluxe Suites
+
+Terrace:
+  - Helipad (Emergency Air Ambulance)
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- Where is the hospital located?
+- What is the phone number of the hospital?
+- What time does OPD open?
+- Is parking available?
+- How do I reach the hospital by metro?
+- Where is the pharmacy?
+- What floor is cardiology on?
+- What is the email address?
+- Is there a cafeteria?
+========================================

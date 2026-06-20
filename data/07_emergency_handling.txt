@@ -1,0 +1,151 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: EMERGENCY HANDLING
+========================================
+
+--- EMERGENCY CONTACTS ---
+
+Hospital Emergency Room:   +91-40-12345600  (24 Hours, 7 Days)
+Ambulance (Hospital):      +91-9876540000   (24 Hours, 7 Days)
+National Emergency Number: 112              (Police, Fire, Ambulance)
+Ambulance (Government):    108              (Free service – Telangana)
+Police:                    100
+Fire Brigade:              101
+Poison Control Centre:     1800-116-117     (Toll-Free)
+Women's Helpline:          1091
+Child Helpline:            1098
+Suicide Prevention (iCall): 9152987821
+
+--- EMERGENCY DEPARTMENT DETAILS ---
+
+Location: Ground Floor, Emergency Gate (North Side of hospital – 24hr accessible)
+Separate Emergency Entrance: Always open, even during non-OPD hours
+Emergency Triage: Immediate assessment on arrival – no appointment needed
+Dedicated Emergency Doctors: Available 24x7
+Emergency ICU (8 beds): Adjacent to Emergency Room
+
+What to Do on Arrival:
+  1. Go directly to the Emergency entrance (do not wait at OPD)
+  2. Inform the guard/nurse immediately about the nature of emergency
+  3. Triage nurse will assess urgency within 5 minutes
+  4. Family member to collect registration form from Emergency Reception
+
+--- WHAT QUALIFIES AS AN EMERGENCY ---
+
+GO TO EMERGENCY ROOM IMMEDIATELY FOR:
+  🚨 Chest pain or suspected heart attack
+  🚨 Stroke symptoms (Face drooping, Arm weakness, Speech difficulty – FAST)
+  🚨 Unconsciousness or unresponsiveness
+  🚨 Severe difficulty breathing
+  🚨 Severe head injury or trauma
+  🚨 Heavy uncontrolled bleeding
+  🚨 Seizures / fits
+  🚨 Suspected poisoning or drug overdose
+  🚨 Severe burns
+  🚨 Road traffic accidents
+  🚨 Sudden paralysis or numbness on one side
+  🚨 Choking
+  🚨 Suspected fracture with severe pain / deformity
+  🚨 Anaphylaxis (severe allergic reaction with swelling of throat)
+  🚨 Suicidal ideation or attempt
+  🚨 High fever in newborn or infant (under 3 months)
+  🚨 Difficulty urinating with severe pain
+  🚨 Sudden loss of vision
+
+--- FIRST AID GUIDANCE WHILE WAITING FOR HELP ---
+
+HEART ATTACK (Suspected):
+  - Call 108 / ambulance immediately
+  - Keep patient calm, seated or lying down
+  - Loosen tight clothing
+  - If unconscious and not breathing, begin CPR
+  - Do NOT give food or water
+  - Do NOT leave the patient alone
+
+STROKE (FAST Check):
+  - Face: Ask to smile – is one side drooping?
+  - Arms: Ask to raise both – does one drift down?
+  - Speech: Ask to repeat a phrase – is it slurred?
+  - Time: Call 108 IMMEDIATELY – every minute matters
+  - Do NOT give aspirin (unless confirmed by doctor)
+  - Do NOT let the person eat or drink
+
+CPR (Cardiopulmonary Resuscitation) – Basic:
+  - Lay person on flat surface, on their back
+  - Tilt head back, lift chin
+  - 30 chest compressions: Push hard and fast in center of chest
+  - 2 rescue breaths (if trained)
+  - Continue until ambulance arrives or person responds
+  Note: Hands-only CPR (30 compressions only) is acceptable if untrained in rescue breaths.
+
+CHOKING:
+  - If coughing, encourage them to keep coughing
+  - If unable to cough or breathe: Stand behind, give 5 back blows (between shoulder blades)
+  - Then 5 abdominal thrusts (Heimlich Maneuver) – fist above navel, pull inward-upward
+  - Alternate until object comes out or patient loses consciousness
+  - If unconscious: start CPR, call 108
+
+BLEEDING:
+  - Apply firm direct pressure with clean cloth
+  - Do NOT remove cloth if it soaks through – add more layers
+  - Elevate the injured area above the heart if possible
+  - Do NOT use a tourniquet unless trained; in life-threatening limb bleed, use one
+  - Call ambulance for severe bleeding
+
+BURNS:
+  - Cool the burn with cool (not ice-cold) running water for 10–20 minutes
+  - Remove rings, watches from affected area
+  - Do NOT apply butter, oil, or toothpaste
+  - Cover loosely with cling film or clean non-fluffy cloth
+  - Go to Emergency for burns covering more than the palm size
+
+SEIZURE:
+  - Stay calm
+  - Protect from injury – remove sharp objects nearby
+  - Place person on their side (recovery position)
+  - Do NOT hold the person down
+  - Do NOT put anything in their mouth
+  - Time the seizure; call 108 if it lasts more than 5 minutes
+
+POISONING / OVERDOSE:
+  - Call Poison Control: 1800-116-117
+  - Do NOT induce vomiting unless instructed by poison control
+  - Bring the substance bottle / label to hospital
+  - Keep patient awake and talking if conscious
+  - Rush to Emergency
+
+SEVERE ALLERGIC REACTION (Anaphylaxis):
+  - Signs: Throat swelling, difficulty breathing, rash, drop in blood pressure
+  - Use EpiPen if prescribed and available
+  - Call 108 immediately
+  - Lay person flat; raise their legs unless breathing is difficult
+
+--- AMBULANCE SERVICES ---
+
+Hospital Ambulance:
+  Number: +91-9876540000
+  Type: Basic Life Support (BLS) and Advanced Life Support (ALS) available
+  Coverage: Within Hyderabad and surrounding districts
+  ALS Equipment: Defibrillator, Ventilator, Cardiac Monitor, IV Access
+  Response Time: Average 15–20 minutes within 10 km radius
+
+Government Ambulance:
+  Dial 108 – Free service, available across Telangana
+  For serious emergencies, government 108 ambulance is always an option.
+
+Air Ambulance:
+  Available through referral
+  Helipad: Available at hospital terrace
+  Contact: Emergency Department
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- What is the emergency number?
+- How to call an ambulance?
+- What to do in a heart attack?
+- How to perform CPR?
+- What is the emergency room location?
+- How to treat burns at home?
+- What should I do during a seizure?
+- What is the poison control number?
+========================================

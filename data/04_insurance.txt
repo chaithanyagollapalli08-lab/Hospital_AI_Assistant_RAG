@@ -1,0 +1,152 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: INSURANCE & CASHLESS FACILITIES
+========================================
+
+--- ACCEPTED INSURANCE PROVIDERS ---
+
+PUBLIC SECTOR INSURANCE:
+  - United India Insurance
+  - New India Assurance
+  - Oriental Insurance
+  - National Insurance
+  - ECHS (Ex-Servicemen Contributory Health Scheme)
+  - CGHS (Central Government Health Scheme)
+  - ESI (Employees' State Insurance)
+
+PRIVATE SECTOR INSURANCE:
+  - Star Health & Allied Insurance ✅
+  - HDFC Ergo Health Insurance ✅
+  - ICICI Lombard Health Insurance ✅
+  - Bajaj Allianz Health Insurance ✅
+  - Religare Health Insurance (now Niva Bupa) ✅
+  - Aditya Birla Health Insurance ✅
+  - Max Bupa Health Insurance ✅
+  - ManipalCigna Health Insurance ✅
+  - Care Health Insurance ✅
+  - Tata AIG Health Insurance ✅
+  - Digit Insurance ✅
+  - Cholamandalam Health Insurance ✅
+
+CORPORATE TPA (Third Party Administrators):
+  - Medi Assist India TPA
+  - Vipul MedCorp TPA
+  - Family Health Plan (FHPL) TPA
+  - Health India TPA
+  - Paramount TPA
+  - MD India TPA
+  - Raksha TPA
+
+Note: The above list is updated as of 2024. Please confirm current tie-ups with our Insurance Desk.
+
+--- CASHLESS FACILITY ---
+
+What is Cashless?
+  - You do not pay upfront from your pocket; your insurer settles the bill directly with us.
+  - Available for IN-PATIENT (IPD) admissions only.
+  - NOT available for OPD consultations or diagnostic tests (except select plans).
+
+How to Avail Cashless:
+  Step 1: Inform us at the time of admission that you wish to use insurance
+  Step 2: Submit your Insurance Policy Card / Health Card + Photo ID (Aadhar/PAN)
+  Step 3: Our Insurance Desk will contact your TPA for pre-authorization
+  Step 4: TPA will approve or send a query (usually within 4-6 hours)
+  Step 5: After approval, you are admitted without paying for covered expenses
+  Step 6: At discharge, sign the final bill. Non-covered amounts must be paid by you.
+
+Insurance Desk Location: Ground Floor, Near Main Reception
+Insurance Desk Hours: 8:00 AM – 8:00 PM (Mon–Sat) | 9:00 AM – 2:00 PM (Sunday)
+Insurance Desk Phone: +91-40-12345699
+Email: insurance@cityhospital.in
+
+--- REIMBURSEMENT CLAIMS ---
+
+If Cashless Was Not Possible:
+  - You pay the bill first, then claim from your insurer.
+  - We provide all required documents for reimbursement.
+
+Documents We Provide for Reimbursement:
+  - Original Discharge Summary
+  - Original Final Bill with itemization
+  - Doctor's Certificate / Medical Certificate
+  - All Investigation Reports (lab, radiology)
+  - Operation Notes (if surgery was done)
+  - Pharmacy bills with prescriptions
+  - Indoor Case Papers (on request from insurance company)
+
+How to Request Reimbursement Documents:
+  - Visit Medical Records Department, 1st Floor
+  - Bring your claim form from insurance company
+  - Documents ready within 3–5 working days
+  - Soft copies available on email request
+
+--- WHAT IS TYPICALLY COVERED ---
+
+Usually Covered:
+  ✅ Hospitalization (Room, Nursing, ICU)
+  ✅ Surgery costs
+  ✅ Medicines during hospitalization
+  ✅ Pre-hospitalization investigations (30–60 days prior – plan-dependent)
+  ✅ Post-hospitalization follow-up (60–90 days – plan-dependent)
+  ✅ Daycare procedures (Dialysis, Cataract, Chemotherapy, etc.)
+
+Usually NOT Covered (General Exclusions):
+  ❌ OPD consultations (most basic plans)
+  ❌ Cosmetic procedures
+  ❌ Dental (unless due to accident)
+  ❌ Pre-existing diseases (during waiting period)
+  ❌ Infertility treatments (some plans exclude)
+  ❌ Non-prescription consumables
+  ❌ Alcohol-related ailments
+
+Note: Coverage varies significantly by policy. Always verify with your insurer.
+
+--- SPECIFIC INSURER NOTES ---
+
+Star Health:
+  - Pre-authorization: 4–6 hours on working days
+  - Popular plans accepted: Star Comprehensive, Star Family Health Optima
+  - Helpline: 1800-425-2255
+
+CGHS:
+  - Package rates apply (CGHS-defined rates, not market rates)
+  - Referral from CGHS Wellness Centre required for non-emergency
+  - Beneficiary card + photo ID mandatory
+
+ESI:
+  - Available to ESI card holders only
+  - Requires referral from ESI dispensary (except emergency)
+  - Contact: ESI Desk at Ground Floor
+
+ECHS:
+  - Serving and retired defense personnel
+  - ECHS card mandatory
+  - Contact: ECHS Desk, Ground Floor
+
+--- FREQUENTLY ASKED INSURANCE QUESTIONS ---
+
+Q: Do you accept Star Health Insurance?
+A: Yes, we accept Star Health & Allied Insurance for cashless and reimbursement claims.
+
+Q: Can I use insurance for an OPD visit?
+A: Generally, OPD is not covered under cashless. Some premium plans include OPD coverage. Please check your policy documents or speak with our insurance desk.
+
+Q: How long does cashless approval take?
+A: Pre-authorization typically takes 4–8 hours. Planned admissions should apply 24–48 hours in advance.
+
+Q: What if my cashless is rejected?
+A: You can proceed with reimbursement. Pay the bill and we'll provide all documents needed for your claim.
+
+Q: Is there a room rent sub-limit I should know about?
+A: Yes, many policies have room rent limits (e.g., 1% of Sum Insured per day). Choosing a room above your eligible category may result in proportionate deduction. Our billing team will guide you.
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- Do you accept Star Health insurance?
+- How to do a cashless claim?
+- What documents are needed for reimbursement?
+- Is OPD covered under insurance?
+- Do you accept CGHS?
+- Which insurance companies are accepted?
+- How long does cashless approval take?
+========================================

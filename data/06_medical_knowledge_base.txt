@@ -1,0 +1,210 @@
+========================================
+HOSPITAL AI ASSISTANT - RAG SOURCE FILE
+SOURCE: MEDICAL KNOWLEDGE BASE
+========================================
+
+⚠️ IMPORTANT DISCLAIMER ⚠️
+The information below is for general educational awareness only.
+It is NOT a substitute for professional medical advice, diagnosis, or treatment.
+Always consult a qualified doctor for any health concerns.
+In case of emergency, call 108 or go to the nearest Emergency Room immediately.
+
+--- COMMON SYMPTOMS & GUIDANCE ---
+
+CHEST PAIN
+Possible Causes: Heart attack, angina, acid reflux (GERD), muscle strain, anxiety, pulmonary embolism
+Warning Signs (EMERGENCY – Call 108 immediately):
+  - Crushing or pressure-like pain spreading to arm, jaw, neck, or back
+  - Chest pain with sweating, nausea, or breathlessness
+  - Sudden severe chest pain in a young person
+General Guidance:
+  - Do not ignore chest pain, even if mild
+  - Avoid self-medicating
+  - Sit or lie down; avoid physical exertion
+Consult: Cardiologist or Emergency Department immediately
+Disclaimer: Chest pain can be life-threatening. Please seek medical attention right away.
+
+---
+
+BREATHLESSNESS / SHORTNESS OF BREATH
+Possible Causes: Asthma, COPD, pneumonia, heart failure, anemia, anxiety
+Warning Signs (EMERGENCY):
+  - Unable to speak in full sentences
+  - Blue lips or fingertips
+  - Breathlessness at rest in elderly or heart patients
+General Guidance:
+  - Sit upright, stay calm
+  - Use inhaler if prescribed (for known asthmatics)
+  - Avoid dusty or smoky environments
+Consult: Pulmonologist, Cardiologist, or Emergency
+Disclaimer: Seek medical attention promptly for unexplained breathlessness.
+
+---
+
+FEVER
+Normal Temperature: Below 98.6°F (37°C)
+Low-Grade Fever: 99°F – 100.4°F
+High Fever: Above 103°F (39.4°C)
+Possible Causes: Viral infection, bacterial infection, dengue, malaria, typhoid, COVID-19, UTI
+Warning Signs (Seek immediate care):
+  - Fever above 104°F
+  - Fever with severe headache and stiff neck (possible meningitis)
+  - Fever with rash
+  - Fever in infants under 3 months
+  - Fever lasting more than 3 days
+General Guidance:
+  - Stay hydrated – drink plenty of fluids
+  - Rest adequately
+  - Paracetamol (as directed) to reduce temperature
+  - Do not use aspirin in children
+  - Cool compresses on forehead
+Consult: General Physician
+Disclaimer: Consult a doctor before taking any medication.
+
+---
+
+HEADACHE
+Types: Tension headache, migraine, cluster headache, sinus headache
+Possible Causes: Stress, dehydration, eye strain, hypertension, sinusitis
+Warning Signs (EMERGENCY):
+  - Sudden "thunderclap" headache (worst of life – possible brain hemorrhage)
+  - Headache with fever, stiff neck, rash
+  - Headache with vision changes, confusion, weakness
+General Guidance:
+  - Rest in a quiet, dark room
+  - Stay hydrated
+  - Avoid screen time during severe headache
+  - Cold/warm compress on forehead or neck
+Consult: Neurologist (for recurrent/severe headaches), General Physician
+Disclaimer: Sudden severe headache is a medical emergency. Seek care immediately.
+
+---
+
+ABDOMINAL PAIN
+Possible Causes: Gastritis, appendicitis, kidney stones, gallstones, IBS, constipation, food poisoning
+Warning Signs (EMERGENCY):
+  - Sudden severe abdominal pain
+  - Pain with fever and vomiting
+  - Rigid/hard abdomen
+  - Blood in stool or vomit
+General Guidance:
+  - Avoid solid foods if nauseous; sip clear fluids
+  - Do not take painkillers without diagnosis (can mask symptoms)
+  - Track location, severity, and pattern of pain
+Consult: Gastroenterologist, General Physician, or Emergency for severe pain
+Disclaimer: Do not delay care for severe or persistent abdominal pain.
+
+---
+
+DIABETES – BASICS
+Type 1: Body does not produce insulin (auto-immune)
+Type 2: Body does not use insulin effectively (most common)
+Common Symptoms: Excessive thirst, frequent urination, fatigue, blurred vision, slow wound healing
+Normal Blood Sugar Ranges:
+  - Fasting: 70–100 mg/dL
+  - Post-meal (2hr): Less than 140 mg/dL
+  - HbA1c: Below 5.7% (normal), 5.7–6.4% (pre-diabetic), 6.5%+ (diabetic)
+Management Tips:
+  - Follow diabetic diet: Low sugar, high fiber
+  - Regular exercise (30 min daily)
+  - Take medication as prescribed
+  - Monitor blood sugar regularly
+  - Regular foot, eye, and kidney checkups
+Warning Signs (Hypoglycemia – Low Sugar Emergency):
+  - Sweating, trembling, confusion, loss of consciousness
+  - Give sugar immediately (juice, glucose) if conscious
+Consult: Endocrinologist / Diabetologist
+Disclaimer: Diabetes management requires personalized medical supervision.
+
+---
+
+HYPERTENSION (HIGH BLOOD PRESSURE)
+Normal BP: Less than 120/80 mmHg
+Elevated: 120-129 / less than 80 mmHg
+Stage 1 Hypertension: 130-139 / 80-89 mmHg
+Stage 2 Hypertension: 140+ / 90+ mmHg
+Crisis (EMERGENCY): Above 180/120 mmHg
+Symptoms (often none – "Silent Killer"): Occasional headache, nosebleed, blurred vision
+Management:
+  - Reduce salt intake
+  - Exercise regularly
+  - Maintain healthy weight
+  - Avoid alcohol and smoking
+  - Take prescribed medication consistently
+  - Monitor BP at home
+Consult: Cardiologist, General Physician
+Disclaimer: Hypertension requires consistent medical follow-up.
+
+---
+
+COMMON COLD vs FLU
+Cold: Gradual onset, runny nose, mild fever, sore throat
+Flu: Sudden onset, high fever, body aches, extreme fatigue, headache
+Treatment:
+  - Rest and fluids
+  - Paracetamol for fever/aches
+  - Steam inhalation for congestion
+  - Flu may require antiviral medication (consult doctor)
+When to See Doctor:
+  - High fever for more than 3 days
+  - Difficulty breathing
+  - Worsening symptoms after initial improvement
+Consult: General Physician
+
+---
+
+SKIN RASH
+Possible Causes: Allergic reaction, eczema, psoriasis, fungal infection, chickenpox, dengue
+Warning Signs (Seek care):
+  - Rash with fever and difficulty breathing (possible anaphylaxis)
+  - Rapidly spreading rash
+  - Rash with joint pain
+General Guidance:
+  - Do not scratch rash
+  - Avoid self-applying steroid creams without prescription
+  - Keep the area clean and dry
+  - Note if rash appeared after starting a new medication
+Consult: Dermatologist
+Disclaimer: Rash with breathing difficulty is an emergency. Call 108 immediately.
+
+---
+
+JOINT PAIN
+Possible Causes: Arthritis (osteo or rheumatoid), gout, injury, lupus, infection in joint
+Red Flags:
+  - Joint swelling with fever (possible septic arthritis)
+  - Morning stiffness lasting more than an hour
+  - Joint pain in multiple joints with fatigue (possible rheumatoid arthritis)
+General Guidance:
+  - Rest the affected joint
+  - Ice pack for acute injury (first 48 hours)
+  - Warm compress for chronic aching
+  - Avoid high-impact activities
+Consult: Orthopedic Surgeon, Rheumatologist
+
+---
+
+DIARRHEA & VOMITING
+Possible Causes: Food poisoning, viral gastroenteritis, cholera, rotavirus
+General Guidance:
+  - Stay well hydrated – ORS (Oral Rehydration Salts) recommended
+  - Avoid dairy, oily, or spicy food
+  - BRAT diet: Banana, Rice, Applesauce, Toast
+  - Wash hands frequently
+Warning Signs (Seek care):
+  - Blood in stool or vomit
+  - Dehydration (no urine for 8+ hours, dry mouth, dizziness)
+  - High fever with diarrhea
+  - Symptoms in infants, elderly, or pregnant women
+Consult: General Physician, Gastroenterologist
+
+========================================
+QUERIES THIS FILE ANSWERS:
+- I have chest pain, what should I do?
+- What does a high fever mean?
+- What is normal blood pressure?
+- I have a headache, what can I do?
+- What are symptoms of diabetes?
+- What is the difference between cold and flu?
+- I have a skin rash, is it serious?
+========================================
